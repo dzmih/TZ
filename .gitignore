@@ -1,0 +1,5 @@
+*.o
+netstatd
+netstatctl
+data/stats.db
+.vscode/
